@@ -2,7 +2,6 @@ SIMPLE BANK APP
 
 
 
-
 ABOUT
 
 
